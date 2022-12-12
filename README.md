@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **cxtxbxr/cxtxbxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!DOCTYPE html>
+<html>
+  <body>
+    <h3>making random things mostly in C and HTML</h3>
+
+  
+  
+  </body>
+  </html>
